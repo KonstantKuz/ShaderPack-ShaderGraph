@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8b28949-635a-4c97-8a6e-1ffa8787b3a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48050808-8AEE-40CA-B708-18FF164A29D5/49/3c84dce7/RenderPipelineManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.shadergraph@7.3.1/Editor/Drawing/MaterialGraphEditWindow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Runtime/Camera/FreeCamera.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Portals/Simple/Portal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Portals/Distortion/Anomaly/DistortionAnomaly.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48050808-8AEE-40CA-B708-18FF164A29D5/85/0351bb2c/RenderPipeline.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Portal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Teleport.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/FreeCam.cs" />
+        <option value="$PROJECT_DIR$/Assets/Anomaly.cs" />
+        <option value="$PROJECT_DIR$/Assets/Distortion/Anomaly.cs" />
+        <option value="$PROJECT_DIR$/Assets/Portals/Portal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Distortion/Portals/ScreenCutoutShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Distortion/Anomaly/Anomaly.cs" />
+        <option value="$PROJECT_DIR$/Assets/Distortion/Anomaly/DistortionAnomaly.cs" />
+        <option value="$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Runtime/Camera/FreeCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Portals/Distortion/Anomaly/DistortionAnomaly.cs" />
+        <option value="$PROJECT_DIR$/Assets/Portals/Simple/Portal.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fH5ovznmmEfimzLzthxULnF57I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8b28949-635a-4c97-8a6e-1ffa8787b3a1" name="Default Changelist" comment="" />
+      <created>1595862359067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595862359067</updated>
+      <workItem from="1595862374141" duration="12728000" />
+      <workItem from="1596283731066" duration="88000" />
+      <workItem from="1596310063953" duration="4122000" />
+      <workItem from="1596363466154" duration="5768000" />
+      <workItem from="1596405963316" duration="1102000" />
+      <workItem from="1596549109237" duration="10764000" />
+      <workItem from="1596574799480" duration="60000" />
+      <workItem from="1596574879822" duration="808000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="419" y="169" width="636" height="526" key="find.popup" timestamp="1596574898448">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="419" y="169" width="636" height="526" key="find.popup/0.0.1474.864@0.0.1474.864" timestamp="1596574898448" />
+    <state x="394" y="200" key="run.anything.popup" timestamp="1595868744328">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="394" y="200" key="run.anything.popup/0.0.1474.864@0.0.1474.864" timestamp="1595868744328" />
+    <state x="479" y="-44" width="672" height="678" key="search.everywhere.popup" timestamp="1596574895231">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="479" y="-44" width="672" height="678" key="search.everywhere.popup/0.0.1474.864@0.0.1474.864" timestamp="1596574895231" />
+  </component>
+</project>
