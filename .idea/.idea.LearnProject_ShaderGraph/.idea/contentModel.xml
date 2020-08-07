@@ -6,6 +6,12 @@
     <e p="D:\UnityProjects\3.LearnProjects\LearnProject_ShaderGraph" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Firing" t="Include">
+          <e p="FiringEffect.cs" t="Include" />
+        </e>
+        <e p="Parallax" t="Include">
+          <e p="paralaxNode.cs" t="Include" />
+        </e>
         <e p="Portals" t="Include">
           <e p="Distortion" t="Include">
             <e p="Anomaly" t="Include">
