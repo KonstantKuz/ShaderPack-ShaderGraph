@@ -9,6 +9,12 @@ public class FiringEffect : MonoBehaviour
     [SerializeField] private float firingTime;
     [SerializeField] private ParticleSystem fireEmbers;
     [SerializeField] private MeshRenderer renderer;
+
+    private IEnumerator Start()
+    {
+        yield return new WaitForSeconds(1f);
+        Fire();
+    }
     
     [ContextMenu("Fire")]
     public void Fire()

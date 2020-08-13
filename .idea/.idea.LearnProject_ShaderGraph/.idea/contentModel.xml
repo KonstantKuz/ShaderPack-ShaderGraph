@@ -6,13 +6,13 @@
     <e p="D:\UnityProjects\3.LearnProjects\LearnProject_ShaderGraph" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Clouds&amp;FOG" t="Include">
+        <e p="Firing" t="Include">
+          <e p="FiringEffect.cs" t="Include" />
+        </e>
+        <e p="FOG" t="Include">
           <e p="Clouds" t="Include">
             <e p="GeneratedFromGraph-CloudsUn.shader" t="Include" />
           </e>
-        </e>
-        <e p="Firing" t="Include">
-          <e p="FiringEffect.cs" t="Include" />
         </e>
         <e p="Parallax" t="Include">
           <e p="paralaxNode.cs" t="Include" />
