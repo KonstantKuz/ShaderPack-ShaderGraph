@@ -1,7 +1,7 @@
-﻿![Anomaly](?raw=true)
+﻿![Anomaly](https://github.com/KonstantKuz/LearnProject_ShaderGraph/blob/master/Assets/Screenshots/Anomaly.png?raw=true)
 
-![FOG](?raw=true)
+![FOG](https://github.com/KonstantKuz/LearnProject_ShaderGraph/blob/master/Assets/Screenshots/FOG.png?raw=true)
 
-![Firing](?raw=true)
+![Firing](https://github.com/KonstantKuz/LearnProject_ShaderGraph/blob/master/Assets/Screenshots/Firing.png?raw=true)
 
-![Portals](?raw=true)
+![Portals](https://github.com/KonstantKuz/LearnProject_ShaderGraph/blob/master/Assets/Screenshots/Portals.png?raw=true)
