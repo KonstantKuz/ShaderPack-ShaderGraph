@@ -1,8 +1,8 @@
-﻿using UnityEngine;
+﻿using UnityEditor.Profiling;
+using UnityEngine;
 using UnityEditor.ShaderGraph;
-using System.Reflection;
 
-// [Title("Custom", "paralax")]
+// [Title("Custom", "parallax")]
 // public class ParalaxNode : CodeFunctionNode
 // {
 // 	public ParalaxNode()

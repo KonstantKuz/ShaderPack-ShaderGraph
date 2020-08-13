@@ -4,6 +4,8 @@
     <list default="true" id="e8b28949-635a-4c97-8a6e-1ffa8787b3a1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LearnProject_ShaderGraph/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LearnProject_ShaderGraph/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LearnProject_ShaderGraph/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LearnProject_ShaderGraph/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Parallax/paralaxNode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Parallax/paralaxNode.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +17,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48050808-8AEE-40CA-B708-18FF164A29D5/49/3c84dce7/RenderPipelineManager.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.shadergraph@7.3.1/Editor/Drawing/MaterialGraphEditWindow.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Firing/FiringEffect.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Runtime/Camera/FreeCamera.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Portals/Simple/Portal.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Portals/Distortion/Anomaly/DistortionAnomaly.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48050808-8AEE-40CA-B708-18FF164A29D5/85/0351bb2c/RenderPipeline.cs" root0="SKIP_HIGHLIGHTING" />
@@ -39,9 +39,10 @@
         <option value="$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Runtime/Camera/FreeCamera.cs" />
         <option value="$PROJECT_DIR$/Assets/Portals/Distortion/Anomaly/DistortionAnomaly.cs" />
         <option value="$PROJECT_DIR$/Assets/Portals/Simple/Portal.cs" />
-        <option value="$PROJECT_DIR$/Assets/Parallax/paralaxNode.cs" />
         <option value="$PROJECT_DIR$/Assets/FramerateLock.cs" />
         <option value="$PROJECT_DIR$/Assets/Firing/FiringEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Parallax/paralaxNode.cs" />
+        <option value="$PROJECT_DIR$/Assets/Clouds&amp;FOG/Clouds/GeneratedFromGraph-CloudsUn.shader" />
       </list>
     </option>
   </component>
@@ -104,6 +105,8 @@
       <workItem from="1596574879822" duration="808000" />
       <workItem from="1596819456236" duration="1644000" />
       <workItem from="1596821165974" duration="1834000" />
+      <workItem from="1597093351387" duration="1764000" />
+      <workItem from="1597348857053" duration="763000" />
     </task>
     <servers />
   </component>
