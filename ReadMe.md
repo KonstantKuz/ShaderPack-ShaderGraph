@@ -1,9 +1,11 @@
-﻿![Anomaly](https://github.com/KonstantKuz/LearnProject_ShaderGraph/blob/master/Assets/Screenshots/Anomaly.png?raw=true)
+﻿![Anomaly](https://github.com/KonstantKuz/LearnProject_ShaderGraph/blob/master/GIF/anomaly.gif)
 
-![FOG](https://github.com/KonstantKuz/LearnProject_ShaderGraph/blob/master/Assets/Screenshots/FOG.png?raw=true)
+![FOG](https://github.com/KonstantKuz/LearnProject_ShaderGraph/blob/master/GIF/fogfast.gif)
 
-![Hologram](https://github.com/KonstantKuz/LearnProject_ShaderGraph/blob/master/Assets/Screenshots/Hologram.png?raw=true)
+![Hologram](https://github.com/KonstantKuz/LearnProject_ShaderGraph/blob/master/GIF/hologram.gif)
 
-![Firing](https://github.com/KonstantKuz/LearnProject_ShaderGraph/blob/master/Assets/Screenshots/Firing.png?raw=true)
+![ForceField](https://github.com/KonstantKuz/LearnProject_ShaderGraph/blob/master/GIF/forcefield.gif)
 
-![Portals](https://github.com/KonstantKuz/LearnProject_ShaderGraph/blob/master/Assets/Screenshots/Portals.png?raw=true)
+![Firing](https://github.com/KonstantKuz/LearnProject_ShaderGraph/blob/master/GIF/firing.gif)
+
+![Portals](https://github.com/KonstantKuz/LearnProject_ShaderGraph/blob/master/GIF/portals.gif)
